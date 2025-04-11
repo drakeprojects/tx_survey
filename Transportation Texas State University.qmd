@@ -8,11 +8,11 @@ An Assessment of Transportation at Texas State University
 ### 1. **Abstract**
 The physical and social characteristics of university campuses provide a unique position for reducing transportation-related greenhouse gas emissions. (Zhou et al. 2018) Travel behavior is influenced by both physical infrastructure and social factors, including personal perspectives, satisfaction, and attitudes, which determine commuters' mode choices (De Angelis et al., 2021) To efficiently reduce emissions from transportation, universities must capitalize on this crucial transition period when students show an increased likelihood of adopting sustainable travel behaviors. (De Angelis et al. 2021)
 
-San Marcos, Texas, has a population of over 71,000 (Census 2023) and is often recognized as a notable college town. (“Best 390 Colleges 2025,” n.d.) With a population of over 40,000, TXST students account for more than half of the local population. Breaking a 125-year record in Fall of 2024, TXST student population grows increasingly. San Marcos’ dense urban landscape and TXST’s compact campus, create a distinct opportunity for employing and assessing novel transportation interventions.
+San Marcos, Texas, has a population of over 71,000 (Census 2023) and is often recognized as a notable college town. (“Best 390 Colleges 2025,” n.d.) With a population of over 40,000, TXST students account for more than half of the local population. Breaking a 125-year record in the Fall of 2024, the TXST student population is increasing. San Marcos’ dense urban landscape and TXST’s compact campus, create a distinct opportunity for employing and assessing novel transportation interventions.
 
 ```r
 
-This project will provide a summary analysis of Texas State University students travel behavior, using parking survey data from the fall semester of 2024. The results of this analysis will provide insight leveraging campus characteristics and existing multimodal systems to reduce transportation emissions. The contributions of this research will aid in future transportation planning and policy, particularly the implementation of the Texas State University 2025 Campus Master Plan.
+This project will provide a summary analysis of Texas State University student's travel behavior using parking survey data from the fall semester of 2024. The results of this analysis will provide insight leveraging campus characteristics and existing multimodal systems to reduce transportation emissions. The contributions of this research will aid in future transportation planning and policy, particularly the implementation of the Texas State University 2025 Campus Master Plan.
 
 ---
 ### 2. **Introduction & Background**
