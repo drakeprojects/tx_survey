@@ -1,0 +1,65 @@
+---
+title: "Untitled"
+format: html
+---
+
+An Assessment of Transportation at Texas State University
+
+### 1. **Abstract**
+The physical and social characteristics of university campuses provide a unique position for reducing transportation-related greenhouse gas emissions. (Zhou et al. 2018) Travel behavior is influenced by both physical infrastructure and social factors, including personal perspectives, satisfaction, and attitudes, which determine commuters' mode choices (De Angelis et al., 2021) To efficiently reduce emissions from transportation, universities must capitalize on this crucial transition period when students show an increased likelihood of adopting sustainable travel behaviors. (De Angelis et al. 2021)
+
+San Marcos, Texas, has a population of over 71,000 (Census 2023) and is often recognized as a notable college town. (“Best 390 Colleges 2025,” n.d.) With a population of over 40,000, TXST students account for more than half of the local population. Breaking a 125-year record in Fall of 2024, TXST student population grows increasingly. San Marcos’ dense urban landscape and TXST’s compact campus, create a distinct opportunity for employing and assessing novel transportation interventions.
+
+```r
+
+This project will provide a summary analysis of Texas State University students travel behavior, using parking survey data from the fall semester of 2024. The results of this analysis will provide insight leveraging campus characteristics and existing multimodal systems to reduce transportation emissions. The contributions of this research will aid in future transportation planning and policy, particularly the implementation of the Texas State University 2025 Campus Master Plan.
+
+---
+### 2. **Introduction & Background**
+
+Universities campuses in college towns provide unique opportunities to reduce transportation-related greenhouse gas emissions other pollutants. College towns are small in population and more compact with a median student population of 33%(p.2) A population of students in a small town size combined with high student population create  opportunity to leverage physical and social characteristics of campus to reduce adverse impacts from increasing transportation demand by promoting active and alternative travel.(p.15) Universities and college towns can benefit from utilizing a Travel Demand Management strategy. Universities, such as ULCA, that have historically employed a Travel Demand Management strategies provide good examples.
+(Zhou et al., 2018)
+
+#| label: e629fa65
+TXST_Fall_2024_pop = 40,678
+San_Marcos_Pop = 71,569 (census estimate)
+
+
+
+Texas State University student population in the fall of 2024 accounted for over half the local population. San Marcos, Texas, home to Texas State University (TXST), has a population exceeding 71,000 (Census 2023). As a college town, TXST itself hosts over 40,000 students, making it a significant contributor to local transportation patterns (“Best 390 Colleges 2025,” n.d.). TXST main campus is compact, with **259** building on 457 acre.(University Master Plan, )
+
+### Transportation Planning Implications:
+"Location and connectivity" significantly impact mode choice. 
+(De Angelis et al., 2021)
+**The high density at Texas State suggests:**
+- Increased potential for "transport infrastructure and services" supporting multimodal travel
+- Similar to findings where compact campus design promoted higher trip rates among students.
+- **Higher density** likely creates more complex transportation patterns
+	- May increase the importance of efficient multimodal transportation options
+	- Could present both challenges and opportunities for promoting non-motorized transportation
+This project aims to highlight the travel behavior of TXST students and explore opportunities for sustainable transportation improvements.
+
+
+---
+### 3. **Objectives**
+- Analyze transportation and travel behavior of Texas State University students using parking survey data from the Fall 2024 semester.
+- Identify trends and areas for improvement in campus transportation.
+- Provide actionable recommendations to reduce transportation-related greenhouse gas emissions.
+
+
+### 4. **Methodology**
+   - **Data Collection**: Utilize parking survey data from Fall 2024.
+   - **Analysis**:
+     - Perform statistical summary analysis of travel behavior based on survey responses.
+     - Identify key insights related to transportation patterns.
+     - Examine the potential impact of changes in travel behavior on greenhouse gas emissions.
+   - **Summary and Recommendations**:
+     - Draft a summary analysis of the findings.
+     - Propose actionable steps for TXST to promote sustainable transportation.
+
+### 5. **Expected Outcomes**
+A comprehensive analysis of TXST student travel behavior.
+Insights into the current state of campus transportation.
+   - A set of recommendations for TXST aimed at reducing greenhouse gas emissions through improved transportation strategies.
+### 6.**Significance and Impact**
+   - This project will provide actionable insights into transportation behavior at TXST, contributing to the university’s sustainability initiatives. By identifying trends and proposing solutions, the project will help reduce the environmental impact of transportation on campus.
