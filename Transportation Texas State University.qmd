@@ -10,11 +10,11 @@ The physical and social characteristics of university campuses provide a unique 
 
 San Marcos, Texas, has a population of over 71,000 (Census 2023) and is often recognized as a notable college town. (“Best 390 Colleges 2025,” n.d.) With a population of over 40,000, TXST students account for more than half of the local population. Breaking a 125-year record in the Fall of 2024, the TXST student population is increasing. San Marcos’ dense urban landscape and TXST’s compact campus, create a distinct opportunity for employing and assessing novel transportation interventions.
 
-```r
+
 
 This project will provide a summary analysis of Texas State University student's travel behavior using parking survey data from the fall semester of 2024. The results of this analysis will provide insight leveraging campus characteristics and existing multimodal systems to reduce transportation emissions. The contributions of this research will aid in future transportation planning and policy, particularly the implementation of the Texas State University 2025 Campus Master Plan.
 
----
+
 ### 2. **Introduction & Background**
 
 Universities campuses in college towns provide unique opportunities to reduce transportation-related greenhouse gas emissions other pollutants. College towns are small in population and more compact with a median student population of 33%(p.2) A population of students in a small town size combined with high student population create  opportunity to leverage physical and social characteristics of campus to reduce adverse impacts from increasing transportation demand by promoting active and alternative travel.(p.15) Universities and college towns can benefit from utilizing a Travel Demand Management strategy. Universities, such as ULCA, that have historically employed a Travel Demand Management strategies provide good examples.
