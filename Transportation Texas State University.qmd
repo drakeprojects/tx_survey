@@ -1,10 +1,10 @@
 ---
-title: "Assessment of Transportation at Texas State University DRAFT"
-toc: true
-format: 
-  acm-pdf: default
-  acm-html: default
-  
+title: "Transportation at Texas State University"
+author: "Drake Blanchard"
+format: pdf
+bibliography: references.bib
+csl: apa.csl  # Optional: use APA style or another CSL style file
+
 ---
 
 An Assessment of Transportation at Texas State University
