@@ -51,7 +51,22 @@ This project aims to highlight the travel behavior of TXST students and explore 
    - **Summary and Recommendations**:
      - Draft a summary analysis of the findings.
      - Propose actionable steps for TXST to promote sustainable transportation.
+### 4. **Methodology**
+   - **Data Collection**: Utilize parking survey data from Fall 2024.
+   - **Analysis**:
+     - Perform statistical summary analysis of travel behavior based on survey responses.
+     - Identify key insights related to transportation patterns.
+     - Examine the potential impact of changes in travel behavior on greenhouse gas emissions.
+   - **Summary and Recommendations**:
+     - Draft a summary analysis of the findings.
+     - Propose actionable steps for TXST to promote sustainable transportation.
 
+### 5. **Expected Outcomes**
+A comprehensive analysis of TXST student travel behavior.
+Insights into the current state of campus transportation.
+   - A set of recommendations for TXST aimed at reducing greenhouse gas emissions through improved transportation strategies.
+### 6.**Significance and Impact**
+   - This project will provide actionable insights into transportation behavior at TXST, contributing to the university’s sustainability initiatives. By identifying trends and proposing solutions, the project will help reduce the environmental impact of transportation on campus.
 ### 5. **Expected Outcomes**
 A comprehensive analysis of TXST student travel behavior.
 Insights into the current state of campus transportation.
